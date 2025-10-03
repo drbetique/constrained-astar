@@ -3,20 +3,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
-env/
-venv/
 .venv/
-.pytest_cache/
-.coverage
-htmlcov/
+venv/
+.env
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
+# Google OAuth tokens/creds
+credentials.json
+token.json
